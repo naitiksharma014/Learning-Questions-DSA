@@ -1,3 +1,6 @@
+//Brute Force
+
+
 public class MaxSubArray_I {
     public static void max_sub_Array(int arr[]){
         int currSum=0;
